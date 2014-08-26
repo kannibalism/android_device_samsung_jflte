@@ -1,10 +1,20 @@
 [
   {
+    "project": "CyanogenMod",
     "repository": "android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common"
+    "target_path": "device/samsung/qcom-common",
+    "branch": "cm-11.0"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_kernel_samsung_jf",
-    "target_path": "kernel/samsung/jf"
-  }
+    "target_path": "kernel/samsung/jf",
+    "branch": "cm-11.0"
+  },
+  {
+    "project": "TheMuppets",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "cm-11.0"
+  },
 ]
